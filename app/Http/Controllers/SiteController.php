@@ -21,6 +21,9 @@ class SiteController extends Controller
     {
         return "我是新分支";
 
+    }public function test05()
+    {
+        return "我是新分支2";
     }
 
 }
