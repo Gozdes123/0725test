@@ -13,7 +13,7 @@ class SiteController extends Controller
         return "tyuikuytyt";
     }
     public function test03(){
-      return "KKIT";
+      return "別再搞衝突啦";
 
     }
 }
