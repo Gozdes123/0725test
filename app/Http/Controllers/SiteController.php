@@ -17,7 +17,14 @@ class SiteController extends Controller
         return "別搞啊";
 
     }
+
     public function test04()
+    {
+        return "bug 分支";
+
+    }
+
+    public function test06()
     {
         return "我是新分支";
 
