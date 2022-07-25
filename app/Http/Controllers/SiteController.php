@@ -13,6 +13,6 @@ class SiteController extends Controller
         return "1256565488";
     }
     public function test03(){
-      return "中央伍為準~~~";
+      return "KKIT";
     }
 }
