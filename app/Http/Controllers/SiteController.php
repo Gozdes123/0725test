@@ -6,6 +6,6 @@ class SiteController extends Controller
 {
     public function test()
     {
-        return "123456789";
+        return "123456789abc";
     }
 }
