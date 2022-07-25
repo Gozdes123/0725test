@@ -12,12 +12,14 @@ class SiteController extends Controller
     {
         return "就我在搞";
     }
-    public function test03(){
-      return "別搞啊";
+    public function test03()
+    {
+        return "別搞啊";
 
     }
-    public function test04(){
+    public function test04()
+    {
         return "bug 分支";
-  
-      }
+
+    }
 }
