@@ -10,6 +10,5 @@ class SiteController extends Controller
     }
     public function test02()
     {
-        return "[jg;oagj;oawhg;oawhj[";
     }
 }
