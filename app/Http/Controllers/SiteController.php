@@ -13,7 +13,7 @@ class SiteController extends Controller
         return "我是凱  我在亂搞";
     }
     public function test03(){
-      return "我是凱  我在亂搞";
+      return "別搞啊";
 
     }
 }
