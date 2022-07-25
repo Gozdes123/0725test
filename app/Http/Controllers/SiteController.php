@@ -10,6 +10,6 @@ class SiteController extends Controller
     }
     public function test02()
     {
-        return "123456789abc15";
+        return "[jg;oagj;oawhg;oawhj[";
     }
 }
