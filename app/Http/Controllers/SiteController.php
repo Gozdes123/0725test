@@ -10,6 +10,10 @@ class SiteController extends Controller
     }
     public function test02()
     {
-        return "[jg;oagj;oawhg;oawhj[";
+        return "tyuikuytyt";
+    }
+    public function test03(){
+      return "KKIT";
+
     }
 }
